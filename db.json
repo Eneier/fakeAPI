@@ -34,5 +34,39 @@
     "imageUrl": "https://habrastorage.org/getpro/habr/upload_files/c75/a45/e9a/c75a45e9a07cd3a09c427efc3995170f.jpg",
     "text": "A weak tornado formed southwest of Ottawa on Wednesday, along with 'multiple funnel clouds' and hail, as a series of severe storm cells passed through the region, researchers and Environment Canada have confirmed."
   }
+     {
+    "id": "6",
+    "title": "Exorcism at Sask. children's Bible camp could be criminal, say experts",
+    "imageUrl": "https://habrastorage.org/getpro/habr/upload_files/c3b/2bd/448/c3b2bd448de7d78ac1855cf6102f83de.jpeg",
+    "text": "Redberry Bible Camp official posts apology online, announces review of 'regrettable incident'",
+    "createdAt": 1657572806699
+  },
+  {
+    "id": "7",
+    "title": "Threat to killer whales highlighted in case of B.C. diver who got too close for comfort",
+    "imageUrl": "http://art.mau.ru/foto/dream/001.jpg",
+    "text": "Research biologist whose photographs helped secure a $12,000 fine against a B.C. man accused of getting too close to killer whales says strong penalties are needed to protect the magnificent mammals from curious humans.",
+    "createdAt": 1657572806699
+  },
+  {
+    "id": "8",
+    "title": "Many Americans still aren't coming to Canada. Is the ArriveCAN app to blame?",
+    "imageUrl": "https://habrastorage.org/getpro/habr/upload_files/1f2/3c1/db4/1f23c1db49915e05648bffb7eeebdadd.webp",
+    "text": "Post-pandemic, tourists have returned to Niagara Falls. But something's missing — a lot of Americans, even though the popular Ontario tourist destination sits right next to the U.S. border. `It's devastating`, said Anna Pierce, vice president of Niagara Helicopters, which offers rides over the falls. Pierce says bookings are down 35 per cent this summer compared to the summer of 2019, largely due to the lack of American tourists.",
+    "createdAt": 1657572806699
+  },
+  {
+    "id": "9",
+    "title": "Why Lord of the Rings endures as a pop culture touchstone",
+    "imageUrl": "https://habrastorage.org/webt/kd/fy/ba/kdfyba1_xpknr4vvhcohumdobu8.jpeg",
+    "text": "It's been over twenty years since movie audiences watched Frodo Baggins and the fellowship go forth on their quest to destroy the evil ring, and even longer since the release of J.R.R. Tolkien's epic fantasy novels, but the world of Lord of the Rings continues to endure as a major piece of pop culture.",
+    "createdAt": 1657572806699
+  },
+  {
+    "id": "10",
+    "title": "Weak tornado confirmed near Carleton Place",
+    "imageUrl": "https://habrastorage.org/getpro/habr/upload_files/c75/a45/e9a/c75a45e9a07cd3a09c427efc3995170f.jpg",
+    "text": "A weak tornado formed southwest of Ottawa on Wednesday, along with 'multiple funnel clouds' and hail, as a series of severe storm cells passed through the region, researchers and Environment Canada have confirmed."
+  }
 ]
 }
